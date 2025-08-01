@@ -69,6 +69,629 @@
       "options": ["6", "8", "16", "32"],
       "correct": 1,
       "explanation": "√64 = 8, porque 8 × 8 = 64"
+    },
+    {
+      "id": 21,
+      "question": "Si 3x + 7 = 22, ¿cuál es el valor de x?",
+      "options": ["3", "5", "7", "15"],
+      "correct": 1,
+      "explanation": "3x + 7 = 22, entonces 3x = 15, por lo tanto x = 5"
+    },
+    {
+      "id": 22,
+      "question": "¿Cuál es el área de un círculo con radio 5 cm? (π ≈ 3.14)",
+      "options": ["15.7 cm²", "31.4 cm²", "78.5 cm²", "157 cm²"],
+      "correct": 2,
+      "explanation": "Área = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm²"
+    },
+    {
+      "id": 23,
+      "question": "¿Qué porcentaje de 80 es 20?",
+      "options": ["20%", "25%", "30%", "40%"],
+      "correct": 1,
+      "explanation": "Porcentaje = (20/80) × 100% = 0.25 × 100% = 25%"
+    },
+    {
+      "id": 24,
+      "question": "¿Cuál es el resultado de 5² - 3²?",
+      "options": ["2", "4", "16", "34"],
+      "correct": 2,
+      "explanation": "5² - 3² = 25 - 9 = 16"
+    },
+    {
+      "id": 25,
+      "question": "Si x - 4 > 10, ¿cuál es el menor valor entero que puede tomar x?",
+      "options": ["14", "15", "16", "17"],
+      "correct": 1,
+      "explanation": "x - 4 > 10, entonces x > 14. El menor valor entero mayor que 14 es 15"
+    },
+    {
+      "id": 26,
+      "question": "¿Cuál es el perímetro de un rectángulo de 12 cm de largo y 8 cm de ancho?",
+      "options": ["20 cm", "40 cm", "96 cm", "120 cm"],
+      "correct": 1,
+      "explanation": "Perímetro = 2(largo + ancho) = 2(12 + 8) = 2(20) = 40 cm"
+    },
+    {
+      "id": 27,
+      "question": "¿Cuál es la media aritmética de 8, 12, 16, 20?",
+      "options": ["12", "14", "16", "18"],
+      "correct": 1,
+      "explanation": "Media = (8 + 12 + 16 + 20) ÷ 4 = 56 ÷ 4 = 14"
+    },
+    {
+      "id": 28,
+      "question": "Si 2/3 de un número es 18, ¿cuál es el número?",
+      "options": ["12", "24", "27", "36"],
+      "correct": 2,
+      "explanation": "Si 2/3 × n = 18, entonces n = 18 ÷ (2/3) = 18 × (3/2) = 27"
+    },
+    {
+      "id": 29,
+      "question": "¿Cuál es el valor de √81?",
+      "options": ["7", "8", "9", "10"],
+      "correct": 2,
+      "explanation": "√81 = 9, porque 9 × 9 = 81"
+    },
+    {
+      "id": 30,
+      "question": "Un ángulo recto mide:",
+      "options": ["45°", "90°", "180°", "270°"],
+      "correct": 1,
+      "explanation": "Un ángulo recto mide exactamente 90°"
+    },
+    {
+      "id": 31,
+      "question": "¿Cuál es el resultado de 7 × 8 - 4 × 5?",
+      "options": ["36", "40", "44", "48"],
+      "correct": 0,
+      "explanation": "7 × 8 - 4 × 5 = 56 - 20 = 36"
+    },
+    {
+      "id": 32,
+      "question": "Si un artículo cuesta ¢1200 y tiene un descuento del 15%, ¿cuál es el precio final?",
+      "options": ["¢180", "¢1020", "¢1080", "¢1380"],
+      "correct": 1,
+      "explanation": "Descuento = 1200 × 0.15 = 180. Precio final = 1200 - 180 = ¢1020"
+    },
+    {
+      "id": 33,
+      "question": "¿Cuántos lados tiene un hexágono?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 1,
+      "explanation": "Un hexágono es un polígono de 6 lados"
+    },
+    {
+      "id": 34,
+      "question": "Si 4x = 28, ¿cuál es el valor de x?",
+      "options": ["6", "7", "8", "24"],
+      "correct": 1,
+      "explanation": "4x = 28, entonces x = 28 ÷ 4 = 7"
+    },
+    {
+      "id": 35,
+      "question": "¿Cuál es la moda del conjunto {3, 7, 5, 7, 9, 7, 2}?",
+      "options": ["3", "5", "7", "9"],
+      "correct": 2,
+      "explanation": "La moda es el valor que más se repite. El 7 aparece 3 veces"
+    },
+    {
+      "id": 36,
+      "question": "¿Cuál es el área de un cuadrado con lado de 9 cm?",
+      "options": ["18 cm²", "36 cm²", "81 cm²", "162 cm²"],
+      "correct": 2,
+      "explanation": "Área del cuadrado = lado² = 9² = 81 cm²"
+    },
+    {
+      "id": 37,
+      "question": "Si x/5 = 8, ¿cuál es el valor de x?",
+      "options": ["3", "13", "40", "45"],
+      "correct": 2,
+      "explanation": "x/5 = 8, entonces x = 8 × 5 = 40"
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál es el resultado de 3⁴?",
+      "options": ["12", "64", "81", "243"],
+      "correct": 2,
+      "explanation": "3⁴ = 3 × 3 × 3 × 3 = 81"
+    },
+    {
+      "id": 39,
+      "question": "En una clase de 30 estudiantes, 18 son mujeres. ¿Qué porcentaje son hombres?",
+      "options": ["40%", "50%", "60%", "70%"],
+      "correct": 0,
+      "explanation": "Hombres = 30 - 18 = 12. Porcentaje = (12/30) × 100% = 40%"
+    },
+    {
+      "id": 40,
+      "question": "¿Cuál es la mediana de 4, 8, 6, 2, 10?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1,
+      "explanation": "Ordenados: 2, 4, 6, 8, 10. La mediana es el valor central: 6"
+    },
+    {
+      "id": 41,
+      "question": "Si 5x - 3 = 2x + 9, ¿cuál es el valor de x?",
+      "options": ["2", "3", "4", "6"],
+      "correct": 2,
+      "explanation": "5x - 3 = 2x + 9, entonces 3x = 12, por lo tanto x = 4"
+    },
+    {
+      "id": 42,
+      "question": "¿Cuál es la circunferencia de un círculo con radio 7 cm? (π ≈ 3.14)",
+      "options": ["21.98 cm", "43.96 cm", "153.86 cm", "307.72 cm"],
+      "correct": 1,
+      "explanation": "Circunferencia = 2πr = 2 × 3.14 × 7 = 43.96 cm"
+    },
+    {
+      "id": 43,
+      "question": "¿Cuál es el resultado de 12 ÷ 3 + 4 × 2?",
+      "options": ["8", "12", "16", "20"],
+      "correct": 1,
+      "explanation": "Siguiendo el orden de operaciones: 12 ÷ 3 + 4 × 2 = 4 + 8 = 12"
+    },
+    {
+      "id": 44,
+      "question": "Si un triángulo tiene ángulos de 60° y 80°, ¿cuál es el tercer ángulo?",
+      "options": ["20°", "40°", "50°", "60°"],
+      "correct": 1,
+      "explanation": "La suma de ángulos de un triángulo es 180°. Tercer ángulo = 180° - 60° - 80° = 40°"
+    },
+    {
+      "id": 45,
+      "question": "¿Cuál es el valor de √36 + √49?",
+      "options": ["13", "15", "85", "√85"],
+      "correct": 0,
+      "explanation": "√36 + √49 = 6 + 7 = 13"
+    },
+    {
+      "id": 46,
+      "question": "En la proporción 2:5 = x:15, ¿cuál es el valor de x?",
+      "options": ["3", "6", "10", "30"],
+      "correct": 1,
+      "explanation": "2/5 = x/15, entonces x = (2 × 15) ÷ 5 = 30 ÷ 5 = 6"
+    },
+    {
+      "id": 47,
+      "question": "¿Cuál es el volumen de un cubo con arista de 4 cm?",
+      "options": ["16 cm³", "48 cm³", "64 cm³", "256 cm³"],
+      "correct": 2,
+      "explanation": "Volumen del cubo = arista³ = 4³ = 64 cm³"
+    },
+    {
+      "id": 48,
+      "question": "Si 3x + 2y = 16 y x = 2, ¿cuál es el valor de y?",
+      "options": ["3", "4", "5", "6"],
+      "correct": 2,
+      "explanation": "3(2) + 2y = 16, entonces 6 + 2y = 16, por lo tanto 2y = 10 y y = 5"
+    },
+    {
+      "id": 49,
+      "question": "¿Cuál es el área de un triángulo rectángulo con catetos de 6 cm y 8 cm?",
+      "options": ["14 cm²", "24 cm²", "28 cm²", "48 cm²"],
+      "correct": 1,
+      "explanation": "Área = (base × altura) ÷ 2 = (6 × 8) ÷ 2 = 48 ÷ 2 = 24 cm²"
+    },
+    {
+      "id": 50,
+      "question": "¿Cuál es el resultado de 2⁵?",
+      "options": ["10", "16", "25", "32"],
+      "correct": 3,
+      "explanation": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32"
+    },
+    {
+      "id": 51,
+      "question": "Si x + y = 15 y x - y = 3, ¿cuál es el valor de x?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 3,
+      "explanation": "Sumando las ecuaciones: 2x = 18, entonces x = 9"
+    },
+    {
+      "id": 52,
+      "question": "¿Cuántos grados mide un ángulo llano?",
+      "options": ["90°", "120°", "180°", "360°"],
+      "correct": 2,
+      "explanation": "Un ángulo llano mide exactamente 180°"
+    },
+    {
+      "id": 53,
+      "question": "¿Cuál es el 30% de 150?",
+      "options": ["30", "45", "50", "120"],
+      "correct": 1,
+      "explanation": "30% de 150 = 0.30 × 150 = 45"
+    },
+    {
+      "id": 54,
+      "question": "Si 7 obreros construyen una pared en 12 días, ¿cuántos días tardarán 4 obreros?",
+      "options": ["18", "19", "21", "28"],
+      "correct": 2,
+      "explanation": "Es proporción inversa: 7 × 12 = 4 × x, entonces x = 84 ÷ 4 = 21 días"
+    },
+    {
+      "id": 55,
+      "question": "¿Cuál es el valor de √100 - √25?",
+      "options": ["5", "15", "75", "√75"],
+      "correct": 0,
+      "explanation": "√100 - √25 = 10 - 5 = 5"
+    },
+    {
+      "id": 56,
+      "question": "En un mapa, 2 cm representan 50 km. ¿Cuántos kilómetros representan 7 cm?",
+      "options": ["125 km", "150 km", "175 km", "200 km"],
+      "correct": 2,
+      "explanation": "Proporción: 2/50 = 7/x, entonces x = (7 × 50) ÷ 2 = 175 km"
+    },
+    {
+      "id": 57,
+      "question": "¿Cuál es el perímetro de un triángulo equilátero con lado de 12 cm?",
+      "options": ["24 cm", "36 cm", "48 cm", "144 cm"],
+      "correct": 1,
+      "explanation": "Perímetro = 3 × lado = 3 × 12 = 36 cm"
+    },
+    {
+      "id": 58,
+      "question": "Si 2x/3 = 8, ¿cuál es el valor de x?",
+      "options": ["6", "10", "12", "16"],
+      "correct": 2,
+      "explanation": "2x/3 = 8, entonces 2x = 24, por lo tanto x = 12"
+    },
+    {
+      "id": 59,
+      "question": "¿Cuál es el área de un paralelogramo con base 10 cm y altura 6 cm?",
+      "options": ["16 cm²", "30 cm²", "60 cm²", "120 cm²"],
+      "correct": 2,
+      "explanation": "Área del paralelogramo = base × altura = 10 × 6 = 60 cm²"
+    },
+    {
+      "id": 60,
+      "question": "¿Cuál número es primo?",
+      "options": ["15", "21", "23", "27"],
+      "correct": 2,
+      "explanation": "23 es primo porque solo es divisible por 1 y por sí mismo"
+    },
+    {
+      "id": 61,
+      "question": "Si x² = 144, ¿cuáles son los valores posibles de x?",
+      "options": ["12", "-12", "12 y -12", "72"],
+      "correct": 2,
+      "explanation": "x² = 144, entonces x = ±12, porque 12² = 144 y (-12)² = 144"
+    },
+    {
+      "id": 62,
+      "question": "¿Cuál es la suma de los ángulos internos de un cuadrilátero?",
+      "options": ["180°", "270°", "360°", "450°"],
+      "correct": 2,
+      "explanation": "La suma de ángulos internos de un cuadrilátero es 360°"
+    },
+    {
+      "id": 63,
+      "question": "Un tren recorre 240 km en 3 horas. ¿Cuál es su velocidad promedio?",
+      "options": ["60 km/h", "80 km/h", "90 km/h", "120 km/h"],
+      "correct": 1,
+      "explanation": "Velocidad = distancia ÷ tiempo = 240 ÷ 3 = 80 km/h"
+    },
+    {
+      "id": 64,
+      "question": "¿Cuál es el resultado de (3 + 4)²?",
+      "options": ["25", "49", "81", "144"],
+      "correct": 1,
+      "explanation": "(3 + 4)² = 7² = 49"
+    },
+    {
+      "id": 65,
+      "question": "Si 5x + 10 ≤ 35, ¿cuál es el mayor valor entero que puede tomar x?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 1,
+      "explanation": "5x + 10 ≤ 35, entonces 5x ≤ 25, por lo tanto x ≤ 5. El mayor valor entero es 5"
+    },
+    {
+      "id": 66,
+      "question": "¿Cuál es el área de un rombo con diagonales de 8 cm y 6 cm?",
+      "options": ["14 cm²", "24 cm²", "28 cm²", "48 cm²"],
+      "correct": 1,
+      "explanation": "Área del rombo = (diagonal₁ × diagonal₂) ÷ 2 = (8 × 6) ÷ 2 = 24 cm²"
+    },
+    {
+      "id": 67,
+      "question": "¿Cuál es el valor de 4! (4 factorial)?",
+      "options": ["4", "16", "24", "64"],
+      "correct": 2,
+      "explanation": "4! = 4 × 3 × 2 × 1 = 24"
+    },
+    {
+      "id": 68,
+      "question": "Si un recipiente tiene 500 ml y está lleno al 60%, ¿cuántos ml contiene?",
+      "options": ["200 ml", "250 ml", "300 ml", "400 ml"],
+      "correct": 2,
+      "explanation": "60% de 500 ml = 0.60 × 500 = 300 ml"
+    },
+    {
+      "id": 69,
+      "question": "¿Cuál es el resultado de √16 × √9?",
+      "options": ["12", "25", "144", "√144"],
+      "correct": 0,
+      "explanation": "√16 × √9 = 4 × 3 = 12"
+    },
+    {
+      "id": 70,
+      "question": "En coordenadas cartesianas, ¿en qué cuadrante está el punto (-3, 5)?",
+      "options": ["I", "II", "III", "IV"],
+      "correct": 1,
+      "explanation": "El punto (-3, 5) tiene x negativa y y positiva, por lo tanto está en el cuadrante II"
+    },
+    {
+      "id": 71,
+      "question": "¿Cuál es el máximo común divisor de 24 y 36?",
+      "options": ["6", "8", "12", "18"],
+      "correct": 2,
+      "explanation": "Los divisores de 24: 1,2,3,4,6,8,12,24. Los de 36: 1,2,3,4,6,9,12,18,36. MCD = 12"
+    },
+    {
+      "id": 72,
+      "question": "Si una camisa cuesta ¢2500 y se le aplica un impuesto del 13%, ¿cuál es el precio final?",
+      "options": ["¢2825", "¢2830", "¢2835", "¢2840"],
+      "correct": 0,
+      "explanation": "Impuesto = 2500 × 0.13 = 325. Precio final = 2500 + 325 = ¢2825"
+    },
+    {
+      "id": 73,
+      "question": "¿Cuál es el volumen de un cilindro con radio 3 cm y altura 4 cm? (π ≈ 3.14)",
+      "options": ["37.68 cm³", "75.36 cm³", "113.04 cm³", "226.08 cm³"],
+      "correct": 2,
+      "explanation": "Volumen = π × r² × h = 3.14 × 3² × 4 = 3.14 × 9 × 4 = 113.04 cm³"
+    },
+    {
+      "id": 74,
+      "question": "Si x/4 + 3 = 8, ¿cuál es el valor de x?",
+      "options": ["12", "16", "20", "32"],
+      "correct": 2,
+      "explanation": "x/4 + 3 = 8, entonces x/4 = 5, por lo tanto x = 20"
+    },
+    {
+      "id": 75,
+      "question": "¿Cuál es la distancia entre los puntos (1, 2) y (4, 6)?",
+      "options": ["3", "4", "5", "7"],
+      "correct": 2,
+      "explanation": "Distancia = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5"
+    },
+    {
+      "id": 76,
+      "question": "¿Cuál fracción es equivalente a 0.75?",
+      "options": ["1/4", "2/3", "3/4", "4/5"],
+      "correct": 2,
+      "explanation": "0.75 = 75/100 = 3/4"
+    },
+    {
+      "id": 77,
+      "question": "Si 3 manzanas cuestan ¢450, ¿cuánto cuestan 8 manzanas?",
+      "options": ["¢1050", "¢1200", "¢1350", "¢1500"],
+      "correct": 1,
+      "explanation": "Precio por manzana = 450 ÷ 3 = 150. Precio de 8 = 150 × 8 = ¢1200"
+    },
+    {
+      "id": 78,
+      "question": "¿Cuál es el resultado de 6² - 4²?",
+      "options": ["4", "20", "32", "52"],
+      "correct": 1,
+      "explanation": "6² - 4² = 36 - 16 = 20"
+    },
+    {
+      "id": 79,
+      "question": "En un triángulo isósceles, si el ángulo diferente mide 40°, ¿cuánto miden los otros dos?",
+      "options": ["60° cada uno", "70° cada uno", "80° cada uno", "90° cada uno"],
+      "correct": 1,
+      "explanation": "Los dos ángulos iguales suman 180° - 40° = 140°, entonces cada uno mide 70°"
+    },
+    {
+      "id": 80,
+      "question": "¿Cuál es el mínimo común múltiplo de 6 y 8?",
+      "options": ["14", "24", "48", "64"],
+      "correct": 1,
+      "explanation": "Múltiplos de 6: 6,12,18,24... Múltiplos de 8: 8,16,24... MCM = 24"
+    },
+    {
+      "id": 81,
+      "question": "Si log₁₀(100) = x, ¿cuál es el valor de x?",
+      "options": ["1", "2", "10", "100"],
+      "correct": 1,
+      "explanation": "log₁₀(100) = 2, porque 10² = 100"
+    },
+    {
+      "id": 82,
+      "question": "¿Cuál es el área de un trapecio con bases de 8 cm y 12 cm, y altura de 5 cm?",
+      "options": ["40 cm²", "50 cm²", "60 cm²", "100 cm²"],
+      "correct": 1,
+      "explanation": "Área = [(base₁ + base₂) × altura] ÷ 2 = [(8 + 12) × 5] ÷ 2 = 50 cm²"
+    },
+    {
+      "id": 83,
+      "question": "Si 4x - 7 = 2x + 5, ¿cuál es el valor de x?",
+      "options": ["3", "4", "6", "12"],
+      "correct": 2,
+      "explanation": "4x - 7 = 2x + 5, entonces 2x = 12, por lo tanto x = 6"
+    },
+    {
+      "id": 84,
+      "question": "¿Cuántas diagonales tiene un pentágono?",
+      "options": ["3", "4", "5", "10"],
+      "correct": 2,
+      "explanation": "Un pentágono tiene 5 diagonales. Fórmula: n(n-3)/2 = 5(2)/2 = 5"
+    },
+    {
+      "id": 85,
+      "question": "Si una población crece un 5% anual y actualmente es de 10,000 habitantes, ¿cuántos habrá el próximo año?",
+      "options": ["10,050", "10,500", "15,000", "50,000"],
+      "correct": 1,
+      "explanation": "Crecimiento = 10,000 × 0.05 = 500. Total = 10,000 + 500 = 10,500"
+    },
+    {
+      "id": 86,
+      "question": "¿Cuál es el resultado de ∛27?",
+      "options": ["3", "6", "9", "81"],
+      "correct": 0,
+      "explanation": "∛27 = 3, porque 3³ = 27"
+    },
+    {
+      "id": 87,
+      "question": "En una bolsa hay 5 bolas rojas, 3 azules y 2 verdes. ¿Cuál es la probabilidad de sacar una roja?",
+      "options": ["1/2", "1/3", "3/10", "5/10"],
+      "correct": 0,
+      "explanation": "Total de bolas = 10. Probabilidad = 5/10 = 1/2"
+    },
+    {
+      "id": 88,
+      "question": "Si 8 es el 40% de un número, ¿cuál es el número?",
+      "options": ["15", "18", "20", "32"],
+      "correct": 2,
+      "explanation": "Si 40% = 8, entonces 100% = 8 ÷ 0.40 = 20"
+    },
+    {
+      "id": 89,
+      "question": "¿Cuál es la pendiente de la recta que pasa por (2, 3) y (6, 11)?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1,
+      "explanation": "Pendiente = (y₂ - y₁)/(x₂ - x₁) = (11 - 3)/(6 - 2) = 8/4 = 2"
+    },
+    {
+      "id": 90,
+      "question": "¿Cuál es el área total de un cubo con arista de 6 cm?",
+      "options": ["36 cm²", "144 cm²", "216 cm²", "216 cm³"],
+      "correct": 2,
+      "explanation": "Área total = 6 × arista² = 6 × 6² = 6 × 36 = 216 cm²"
+    },
+    {
+      "id": 91,
+      "question": "Si x + 2x + 3x = 30, ¿cuál es el valor de x?",
+      "options": ["5", "6", "10", "15"],
+      "correct": 0,
+      "explanation": "6x = 30, entonces x = 5"
+    },
+    {
+      "id": 92,
+      "question": "¿Cuál es el perímetro de un círculo con diámetro 14 cm? (π ≈ 3.14)",
+      "options": ["21.98 cm", "43.96 cm", "87.92 cm", "615.44 cm"],
+      "correct": 1,
+      "explanation": "Perímetro = π × diámetro = 3.14 × 14 = 43.96 cm"
+    },
+    {
+      "id": 93,
+      "question": "¿Cuál es el valor de |−8|?",
+      "options": ["-8", "0", "8", "16"],
+      "correct": 2,
+      "explanation": "El valor absoluto de -8 es 8"
+    },
+    {
+      "id": 94,
+      "question": "Si una receta para 4 personas requiere 200g de harina, ¿cuántos gramos se necesitan para 10 personas?",
+      "options": ["400g", "500g", "600g", "800g"],
+      "correct": 1,
+      "explanation": "Proporción: 200/4 = x/10, entonces x = (200 × 10) ÷ 4 = 500g"
+    },
+    {
+      "id": 95,
+      "question": "¿Cuál es el resultado de 3 × 4² - 2³?",
+      "options": ["40", "46", "48", "56"],
+      "correct": 0,
+      "explanation": "3 × 4² - 2³ = 3 × 16 - 8 = 48 - 8 = 40"
+    },
+    {
+      "id": 96,
+      "question": "En un rectángulo, si el largo es el doble del ancho y el perímetro es 36 cm, ¿cuál es el ancho?",
+      "options": ["6 cm", "9 cm", "12 cm", "18 cm"],
+      "correct": 0,
+      "explanation": "Si ancho = x, largo = 2x. Perímetro = 2(x + 2x) = 6x = 36, entonces x = 6 cm"
+    },
+    {
+      "id": 97,
+      "question": "¿Cuál es el rango del conjunto {12, 8, 15, 3, 20, 7}?",
+      "options": ["8", "12", "17", "20"],
+      "correct": 2,
+      "explanation": "Rango = valor máximo - valor mínimo = 20 - 3 = 17"
+    },
+    {
+      "id": 98,
+      "question": "Si sen(30°) = 1/2, ¿cuál es el valor de 2 × sen(30°)?",
+      "options": ["1/4", "1/2", "1", "2"],
+      "correct": 2,
+      "explanation": "2 × sen(30°) = 2 × (1/2) = 1"
+    },
+    {
+      "id": 99,
+      "question": "¿Cuál es el área de un sector circular con radio 6 cm y ángulo central de 60°? (π ≈ 3.14)",
+      "options": ["6.28 cm²", "9.42 cm²", "18.84 cm²", "37.68 cm²"],
+      "correct": 2,
+      "explanation": "Área del sector = (ángulo/360°) × π × r² = (60°/360°) × 3.14 × 36 = 18.84 cm²"
+    },
+    {
+      "id": 100,
+      "question": "Si f(x) = 2x + 3, ¿cuál es el valor de f(5)?",
+      "options": ["8", "10", "13", "15"],
+      "correct": 2,
+      "explanation": "f(5) = 2(5) + 3 = 10 + 3 = 13"
+    },
+    {
+      "id": 101,
+      "question": "¿Cuál es la hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm?",
+      "options": ["5 cm", "7 cm", "12 cm", "25 cm"],
+      "correct": 0,
+      "explanation": "Por el teorema de Pitágoras: h² = 3² + 4² = 9 + 16 = 25, entonces h = 5 cm"
+    },
+    {
+      "id": 102,
+      "question": "Si 2ˣ = 16, ¿cuál es el valor de x?",
+      "options": ["2", "3", "4", "8"],
+      "correct": 2,
+      "explanation": "2ˣ = 16 = 2⁴, entonces x = 4"
+    },
+    {
+      "id": 103,
+      "question": "¿Cuál es el 120% de 50?",
+      "options": ["50", "60", "70", "120"],
+      "correct": 1,
+      "explanation": "120% de 50 = 1.20 × 50 = 60"
+    },
+    {
+      "id": 104,
+      "question": "En una progresión aritmética: 5, 8, 11, 14, ..., ¿cuál es el séptimo término?",
+      "options": ["20", "23", "26", "29"],
+      "correct": 1,
+      "explanation": "La diferencia común es 3. Séptimo término = 5 + 6(3) = 5 + 18 = 23"
+    },
+    {
+      "id": 105,
+      "question": "¿Cuál es el resultado de (2 + 3i) + (1 - 2i), donde i es la unidad imaginaria?",
+      "options": ["3 + i", "3 - i", "1 + 5i", "3 + 5i"],
+      "correct": 0,
+      "explanation": "(2 + 3i) + (1 - 2i) = (2 + 1) + (3i - 2i) = 3 + i"
+    },
+    {
+      "id": 106,
+      "question": "Si una caja contiene 12 chocolates y comes 1/3, ¿cuántos chocolates quedan?",
+      "options": ["4", "6", "8", "9"],
+      "correct": 2,
+      "explanation": "Comes 12 × 1/3 = 4 chocolates. Quedan 12 - 4 = 8 chocolates"
+    },
+    {
+      "id": 107,
+      "question": "¿Cuál es la ecuación de la recta que pasa por el origen con pendiente 3?",
+      "options": ["y = 3", "y = 3x", "y = x + 3", "3y = x"],
+      "correct": 1,
+      "explanation": "La ecuación es y = mx + b. Con m = 3 y b = 0: y = 3x"
+    },
+    {
+      "id": 108,
+      "question": "Si un dado se lanza dos veces, ¿cuál es la probabilidad de obtener la suma 7?",
+      "options": ["1/6", "1/4", "1/3", "1/2"],
+      "correct": 0,
+      "explanation": "Hay 6 formas de obtener suma 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1). Total de resultados = 36. P = 6/36 = 1/6"
+    },
+    {
+      "id": 109,
+      "question": "¿Cuál es el volumen de una esfera con radio 3 cm? (π ≈ 3.14)",
+      "options": ["37.68 cm³", "56.52 cm³", "113.04 cm³", "452.16 cm³"],
+      "correct": 2,
+      "explanation": "Volumen = (4/3)πr³ = (4/3) × 3.14 × 3³ = (4/3) × 3.14 × 27 = 113.04 cm³"
     }
   ],
   "verbal": [
@@ -146,6 +769,1273 @@
       "options": ["Alegría", "Esperanza", "Pesimismo", "Confianza"],
       "correct": 2,
       "explanation": "Optimismo es ver el lado positivo, su antónimo es pesimismo (ver el lado negativo)"
+    },
+    {
+      "id": 110,
+      "question": "¿Cuál es el sinónimo de 'BONDAD'?",
+      "options": ["Maldad", "Benevolencia", "Rudeza", "Crueldad"],
+      "correct": 1,
+      "explanation": "Bondad significa cualidad de bueno, su sinónimo es benevolencia"
+    },
+    {
+      "id": 111,
+      "question": "¿Cuál es el antónimo de 'ARDUO'?",
+      "options": ["Difícil", "Complejo", "Sencillo", "Laborioso"],
+      "correct": 2,
+      "explanation": "Arduo significa difícil o trabajoso, su antónimo es sencillo"
+    },
+    {
+      "id": 112,
+      "question": "Identifica el sujeto en: 'Los niños del barrio jugaron fútbol toda la tarde'",
+      "options": ["Los niños del barrio", "jugaron", "fútbol", "toda la tarde"],
+      "correct": 0,
+      "explanation": "El sujeto es quien realiza la acción: 'Los niños del barrio'"
+    },
+    {
+      "id": 113,
+      "question": "¿Cuál palabra lleva tilde?",
+      "options": ["Cancion", "Lapiz", "Arboles", "Todas las anteriores"],
+      "correct": 3,
+      "explanation": "Canción, lápiz y árboles llevan tilde según las reglas de acentuación"
+    },
+    {
+      "id": 114,
+      "question": "¿Cuál es el sinónimo de 'MAGNÁNIMO'?",
+      "options": ["Mezquino", "Generoso", "Tacaño", "Egoísta"],
+      "correct": 1,
+      "explanation": "Magnánimo significa generoso y noble de corazón"
+    },
+    {
+      "id": 115,
+      "question": "Completa la analogía: MÉDICO es a HOSPITAL como PROFESOR es a:",
+      "options": ["Estudiante", "Escuela", "Libro", "Clase"],
+      "correct": 1,
+      "explanation": "La relación es profesional-lugar de trabajo: médico trabaja en hospital, profesor en escuela"
+    },
+    {
+      "id": 116,
+      "question": "¿Cuál oración tiene un gerundio?",
+      "options": ["Él canta muy bien", "Corriendo llegó a tiempo", "Mañana viajaré", "La casa es grande"],
+      "correct": 1,
+      "explanation": "'Corriendo' es un gerundio (verbo terminado en -ando, -endo)"
+    },
+    {
+      "id": 117,
+      "question": "¿Cuál es el antónimo de 'UBÉRRIMO'?",
+      "options": ["Fértil", "Abundante", "Estéril", "Productivo"],
+      "correct": 2,
+      "explanation": "Ubérrimo significa muy fértil o abundante, su antónimo es estéril"
+    },
+    {
+      "id": 118,
+      "question": "Identifica la figura retórica en: 'El viento susurra secretos'",
+      "options": ["Metáfora", "Personificación", "Hipérbole", "Comparación"],
+      "correct": 1,
+      "explanation": "Es personificación porque se atribuyen cualidades humanas (susurrar) al viento"
+    },
+    {
+      "id": 119,
+      "question": "¿Cuál es el sinónimo de 'SAPIENCIA'?",
+      "options": ["Ignorancia", "Sabiduría", "Torpeza", "Necedad"],
+      "correct": 1,
+      "explanation": "Sapiencia significa sabiduría o conocimiento profundo"
+    },
+    {
+      "id": 120,
+      "question": "¿Cuál palabra está mal dividida silábicamente?",
+      "options": ["cons-truc-ción", "at-mós-fe-ra", "trans-por-te", "ins-ti-tu-to"],
+      "correct": 1,
+      "explanation": "Lo correcto es 'at-mós-fe-ra', no se puede separar el grupo consonántico 'tm'"
+    },
+    {
+      "id": 121,
+      "question": "¿Cuál es el predicado en: 'María compró flores para su madre'?",
+      "options": ["María", "compró flores para su madre", "flores", "para su madre"],
+      "correct": 1,
+      "explanation": "El predicado es todo lo que se dice del sujeto: 'compró flores para su madre'"
+    },
+    {
+      "id": 122,
+      "question": "¿Cuál es el antónimo de 'DIÁFANO'?",
+      "options": ["Transparente", "Claro", "Turbio", "Cristalino"],
+      "correct": 2,
+      "explanation": "Diáfano significa transparente o claro, su antónimo es turbio"
+    },
+    {
+      "id": 123,
+      "question": "Completa la oración: 'Si _____ tiempo, iré contigo'",
+      "options": ["tengo", "tenga", "tendré", "tuviera"],
+      "correct": 0,
+      "explanation": "Se usa presente de indicativo 'tengo' en oraciones condicionales reales"
+    },
+    {
+      "id": 124,
+      "question": "¿Cuál es el sinónimo de 'PRÍSTINO'?",
+      "options": ["Deteriorado", "Original", "Usado", "Viejo"],
+      "correct": 1,
+      "explanation": "Prístino significa original, primitivo o en su estado natural"
+    },
+    {
+      "id": 125,
+      "question": "Identifica el hiato en:",
+      "options": ["causa", "ciudad", "país", "auto"],
+      "correct": 2,
+      "explanation": "En 'país' hay hiato entre la vocal cerrada tónica 'í' y la abierta 'a'"
+    },
+    {
+      "id": 126,
+      "question": "¿Cuál es la función del complemento directo?",
+      "options": ["Indica lugar", "Recibe la acción directamente", "Indica tiempo", "Indica modo"],
+      "correct": 1,
+      "explanation": "El complemento directo recibe directamente la acción del verbo transitivo"
+    },
+    {
+      "id": 127,
+      "question": "¿Cuál es el antónimo de 'LOCUAZ'?",
+      "options": ["Hablador", "Elocuente", "Silencioso", "Expresivo"],
+      "correct": 2,
+      "explanation": "Locuaz significa muy hablador, su antónimo es silencioso"
+    },
+    {
+      "id": 128,
+      "question": "¿Cuál oración está en voz pasiva?",
+      "options": ["Juan escribió la carta", "La carta fue escrita por Juan", "Juan escribe cartas", "Juan escribirá mañana"],
+      "correct": 1,
+      "explanation": "En voz pasiva el sujeto recibe la acción: 'La carta fue escrita por Juan'"
+    },
+    {
+      "id": 129,
+      "question": "¿Cuál es el sinónimo de 'EXECRABLE'?",
+      "options": ["Admirable", "Detestable", "Loable", "Estimable"],
+      "correct": 1,
+      "explanation": "Execrable significa que merece ser detestado o aborrecido"
+    },
+    {
+      "id": 130,
+      "question": "Completa la analogía: HAMBRE es a COMER como SED es a:",
+      "options": ["Agua", "Beber", "Líquido", "Vaso"],
+      "correct": 1,
+      "explanation": "La relación es necesidad-acción: hambre se satisface comiendo, sed bebiendo"
+    },
+    {
+      "id": 131,
+      "question": "¿Cuál palabra tiene diptongo?",
+      "options": ["teatro", "poeta", "piano", "área"],
+      "correct": 2,
+      "explanation": "En 'piano' hay diptongo entre la vocal cerrada 'i' y la abierta 'a'"
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál es el antónimo de 'PRÓDIGO'?",
+      "options": ["Generoso", "Abundante", "Tacaño", "Dadivoso"],
+      "correct": 2,
+      "explanation": "Pródigo significa generoso o abundante, su antónimo es tacaño"
+    },
+    {
+      "id": 133,
+      "question": "Identifica la hipérbole en:",
+      "options": ["Sus ojos brillan como estrellas", "Lloró ríos de lágrimas", "El viento sopla fuerte", "Camina lentamente"],
+      "correct": 1,
+      "explanation": "'Lloró ríos de lágrimas' es hipérbole porque exagera la cantidad de lágrimas"
+    },
+    {
+      "id": 134,
+      "question": "¿Cuál verbo está en subjuntivo?",
+      "options": ["come", "comía", "coma", "comerá"],
+      "correct": 2,
+      "explanation": "'Coma' es presente de subjuntivo del verbo comer"
+    },
+    {
+      "id": 135,
+      "question": "¿Cuál es el sinónimo de 'BIZARRO'?",
+      "options": ["Cobarde", "Valiente", "Tímido", "Miedoso"],
+      "correct": 1,
+      "explanation": "Bizarro significa valiente, gallardo o esforzado"
+    },
+    {
+      "id": 136,
+      "question": "¿Cuál oración tiene complemento indirecto?",
+      "options": ["María corre rápido", "Le di el libro a Pedro", "El perro ladra fuerte", "Llueve mucho"],
+      "correct": 1,
+      "explanation": "'Le' y 'a Pedro' son complementos indirectos que indican el destinatario"
+    },
+    {
+      "id": 137,
+      "question": "¿Cuál es el antónimo de 'CÉLEBRE'?",
+      "options": ["Famoso", "Conocido", "Anónimo", "Popular"],
+      "correct": 2,
+      "explanation": "Célebre significa famoso o conocido, su antónimo es anónimo"
+    },
+    {
+      "id": 138,
+      "question": "Identifica la comparación en:",
+      "options": ["Eres mi sol", "Corre como el viento", "Sus cabellos de oro", "El tiempo vuela"],
+      "correct": 1,
+      "explanation": "'Corre como el viento' es comparación por usar el nexo 'como'"
+    },
+    {
+      "id": 139,
+      "question": "¿Cuál palabra es esdrújula?",
+      "options": ["Corazón", "Difícil", "Médico", "Cantar"],
+      "correct": 2,
+      "explanation": "'Médico' es esdrújula porque se acentúa en la antepenúltima sílaba"
+    },
+    {
+      "id": 140,
+      "question": "¿Cuál es el sinónimo de 'MENDAZ'?",
+      "options": ["Veraz", "Mentiroso", "Honesto", "Sincero"],
+      "correct": 1,
+      "explanation": "Mendaz significa mentiroso o que acostumbra a mentir"
+    },
+    {
+      "id": 141,
+      "question": "Lee el texto: 'El águila voló majestuosamente sobre las montañas.' ¿Cuál es el núcleo del sujeto?",
+      "options": ["El", "águila", "voló", "majestuosamente"],
+      "correct": 1,
+      "explanation": "El núcleo del sujeto es la palabra principal: 'águila'"
+    },
+    {
+      "id": 142,
+      "question": "¿Cuál es el antónimo de 'EFÍMERO'?",
+      "options": ["Breve", "Temporal", "Duradero", "Pasajero"],
+      "correct": 2,
+      "explanation": "Efímero significa de corta duración, su antónimo es duradero"
+    },
+    {
+      "id": 143,
+      "question": "¿Cuál oración está en condicional?",
+      "options": ["Vendré mañana", "Vine ayer", "Vendría si pudiera", "Vengo ahora"],
+      "correct": 2,
+      "explanation": "'Vendría' está en modo condicional, expresa una acción hipotética"
+    },
+    {
+      "id": 144,
+      "question": "¿Cuál es el sinónimo de 'INSIGNE'?",
+      "options": ["Vulgar", "Ilustre", "Común", "Ordinario"],
+      "correct": 1,
+      "explanation": "Insigne significa notable, ilustre o famoso"
+    },
+    {
+      "id": 145,
+      "question": "Identifica la onomatopeya en:",
+      "options": ["El río cantaba", "¡Tic-tac! hacía el reloj", "Sus ojos brillaban", "Camina despacio"],
+      "correct": 1,
+      "explanation": "'¡Tic-tac!' es onomatopeya porque imita el sonido del reloj"
+    },
+    {
+      "id": 146,
+      "question": "¿Cuál palabra tiene acento diacrítico?",
+      "options": ["música", "más", "árbol", "difícil"],
+      "correct": 1,
+      "explanation": "'Más' lleva tilde diacrítica para diferenciarlo de 'mas' (pero)"
+    },
+    {
+      "id": 147,
+      "question": "¿Cuál es el antónimo de 'AFABLE'?",
+      "options": ["Amable", "Cordial", "Hosco", "Gentil"],
+      "correct": 2,
+      "explanation": "Afable significa amable y agradable en el trato, su antónimo es hosco"
+    },
+    {
+      "id": 148,
+      "question": "¿Cuál oración tiene elipsis?",
+      "options": ["Juan estudia mucho", "María lee; Pedro, escribe", "El perro ladra", "Mañana llueve"],
+      "correct": 1,
+      "explanation": "Hay elipsis en 'Pedro, escribe' donde se omite el verbo conjugado"
+    },
+    {
+      "id": 149,
+      "question": "¿Cuál es el sinónimo de 'ÍNCLITO'?",
+      "options": ["Desconocido", "Ilustre", "Vulgar", "Anónimo"],
+      "correct": 1,
+      "explanation": "Ínclito significa ilustre, insigne o muy noble"
+    },
+    {
+      "id": 150,
+      "question": "Completa la analogía: AUTOR es a LIBRO como PINTOR es a:",
+      "options": ["Pincel", "Color", "Cuadro", "Arte"],
+      "correct": 2,
+      "explanation": "La relación es creador-obra: autor crea libro, pintor crea cuadro"
+    },
+    {
+      "id": 151,
+      "question": "¿Cuál palabra es aguda?",
+      "options": ["médico", "fácil", "corazón", "árbol"],
+      "correct": 2,
+      "explanation": "'Corazón' es aguda porque se acentúa en la última sílaba"
+    },
+    {
+      "id": 152,
+      "question": "¿Cuál es el antónimo de 'PROBO'?",
+      "options": ["Honrado", "Íntegro", "Corrupto", "Recto"],
+      "correct": 2,
+      "explanation": "Probo significa honrado e íntegro, su antónimo es corrupto"
+    },
+    {
+      "id": 153,
+      "question": "Lee: 'Los estudiantes, cansados del examen, salieron del aula.' ¿Qué función tiene 'cansados del examen'?",
+      "options": ["Sujeto", "Predicado", "Aposición", "Complemento directo"],
+      "correct": 2,
+      "explanation": "'Cansados del examen' es una aposición que explica el estado de los estudiantes"
+    },
+    {
+      "id": 154,
+      "question": "¿Cuál es el sinónimo de 'IGNOMINIA'?",
+      "options": ["Honor", "Deshonra", "Gloria", "Prestigio"],
+      "correct": 1,
+      "explanation": "Ignominia significa deshonra pública o afrenta grave"
+    },
+    {
+      "id": 155,
+      "question": "Identifica la aliteración en:",
+      "options": ["El viento vuela veloz", "Sus ojos como estrellas", "Mil veces lo dije", "Camina lentamente"],
+      "correct": 0,
+      "explanation": "'El viento vuela veloz' tiene aliteración por la repetición del sonido 'v'"
+    },
+    {
+      "id": 156,
+      "question": "¿Cuál oración tiene un complemento circunstancial de lugar?",
+      "options": ["Llegó ayer", "Estudia en la biblioteca", "Come rápidamente", "Trabaja mucho"],
+      "correct": 1,
+      "explanation": "'En la biblioteca' indica el lugar donde se realiza la acción"
+    },
+    {
+      "id": 157,
+      "question": "¿Cuál es el antónimo de 'VENTUROSO'?",
+      "options": ["Afortunado", "Dichoso", "Desdichado", "Próspero"],
+      "correct": 2,
+      "explanation": "Venturoso significa afortunado o feliz, su antónimo es desdichado"
+    },
+    {
+      "id": 158,
+      "question": "¿Cuál verbo está en pretérito imperfecto?",
+      "options": ["cantó", "cantaba", "cantará", "cante"],
+      "correct": 1,
+      "explanation": "'Cantaba' está en pretérito imperfecto, indica una acción habitual en el pasado"
+    },
+    {
+      "id": 159,
+      "question": "¿Cuál es el sinónimo de 'ACÉRRIMO'?",
+      "options": ["Débil", "Fervoroso", "Tibio", "Indiferente"],
+      "correct": 1,
+      "explanation": "Acérrimo significa muy firme, tenaz o fervoroso en sus opiniones"
+    },
+    {
+      "id": 160,
+      "question": "Lee: 'Aunque llueva, iremos al parque.' ¿Qué tipo de oración subordinada es 'Aunque llueva'?",
+      "options": ["Sustantiva", "Adjetiva", "Adverbial concesiva", "Adverbial temporal"],
+      "correct": 2,
+      "explanation": "'Aunque llueva' es una subordinada adverbial concesiva que expresa oposición"
+    },
+    {
+      "id": 161,
+      "question": "¿Cuál palabra no lleva tilde por ser monosílaba?",
+      "options": ["dé", "té", "fe", "sé"],
+      "correct": 2,
+      "explanation": "'Fe' no lleva tilde porque es monosílaba y no necesita diferenciarse"
+    },
+    {
+      "id": 162,
+      "question": "¿Cuál es el antónimo de 'PULCRO'?",
+      "options": ["Limpio", "Aseado", "Sucio", "Cuidado"],
+      "correct": 2,
+      "explanation": "Pulcro significa limpio y bien cuidado, su antónimo es sucio"
+    },
+    {
+      "id": 163,
+      "question": "¿Cuál oración tiene perífrasis verbal?",
+      "options": ["Juan corre mucho", "Va a llover", "María estudia", "Pedro trabaja"],
+      "correct": 1,
+      "explanation": "'Va a llover' es perífrasis verbal (verbo auxiliar + infinitivo)"
+    },
+    {
+      "id": 164,
+      "question": "¿Cuál es el sinónimo de 'PUSILÁNIME'?",
+      "options": ["Valiente", "Cobarde", "Audaz", "Intrépido"],
+      "correct": 1,
+      "explanation": "Pusilánime significa cobarde o falto de ánimo y valor"
+    },
+    {
+      "id": 165,
+      "question": "Completa la analogía: SEMILLA es a ÁRBOL como HUEVO es a:",
+      "options": ["Nido", "Ave", "Volar", "Pluma"],
+      "correct": 1,
+      "explanation": "La relación es origen-desarrollo: semilla se convierte en árbol, huevo en ave"
+    },
+    {
+      "id": 166,
+      "question": "¿Cuál es el antónimo de 'DADIVOSO'?",
+      "options": ["Generoso", "Altruista", "Tacaño", "Desprendido"],
+      "correct": 2,
+      "explanation": "Dadivoso significa generoso, que da con liberalidad, su antónimo es tacaño"
+    },
+    {
+      "id": 167,
+      "question": "¿Cuál oración está en voz activa?",
+      "options": ["La casa fue construida", "El libro fue leído", "Juan escribió la carta", "La canción fue cantada"],
+      "correct": 2,
+      "explanation": "En voz activa el sujeto realiza la acción: 'Juan escribió la carta'"
+    },
+    {
+      "id": 168,
+      "question": "¿Cuál es el sinónimo de 'HESITAR'?",
+      "options": ["Decidir", "Vacilar", "Resolver", "Determinar"],
+      "correct": 1,
+      "explanation": "Hesitar significa vacilar, mostrar duda o incertidumbre"
+    },
+    {
+      "id": 169,
+      "question": "Lee: 'El profesor explicó la lección con claridad.' ¿Cuál es el complemento circunstancial de modo?",
+      "options": ["El profesor", "la lección", "con claridad", "explicó"],
+      "correct": 2,
+      "explanation": "'Con claridad' indica la manera o modo en que se realizó la acción"
+    },
+    {
+      "id": 170,
+      "question": "¿Cuál palabra tiene triptongo?",
+      "options": ["buey", "Uruguay", "piano", "causa"],
+      "correct": 1,
+      "explanation": "'Uruguay' tiene triptongo en la secuencia 'uay'"
+    },
+    {
+      "id": 171,
+      "question": "¿Cuál es el antónimo de 'FATUO'?",
+      "options": ["Vanidoso", "Presuntuoso", "Modesto", "Arrogante"],
+      "correct": 2,
+      "explanation": "Fatuo significa vanidoso y presuntuoso, su antónimo es modesto"
+    },
+    {
+      "id": 172,
+      "question": "¿Cuál oración tiene un gerundio con valor temporal?",
+      "options": ["Cantando llegó", "Está cantando", "Va cantando", "Siguió cantando"],
+      "correct": 0,
+      "explanation": "'Cantando llegó' indica simultaneidad temporal entre las dos acciones"
+    },
+    {
+      "id": 173,
+      "question": "¿Cuál es el sinónimo de 'ZAFIO'?",
+      "options": ["Refinado", "Educado", "Tosco", "Elegante"],
+      "correct": 2,
+      "explanation": "Zafio significa tosco, grosero o falto de educación"
+    },
+    {
+      "id": 174,
+      "question": "¿Cuál palabra es grave o llana?",
+      "options": ["corazón", "árbol", "médico", "cantar"],
+      "correct": 1,
+      "explanation": "'Árbol' es grave porque se acentúa en la penúltima sílaba"
+    },
+    {
+      "id": 175,
+      "question": "¿Cuál es el antónimo de 'PRECLARO'?",
+      "options": ["Ilustre", "Famoso", "Oscuro", "Célebre"],
+      "correct": 2,
+      "explanation": "Preclaro significa muy ilustre o famoso, su antónimo es oscuro"
+    },
+    {
+      "id": 176,
+      "question": "Lee: 'Los libros que compré son interesantes.' ¿Qué tipo de oración subordinada es 'que compré'?",
+      "options": ["Sustantiva", "Adjetiva", "Adverbial", "Coordinada"],
+      "correct": 1,
+      "explanation": "'Que compré' es subordinada adjetiva que modifica al sustantivo 'libros'"
+    },
+    {
+      "id": 177,
+      "question": "¿Cuál oración tiene complemento predicativo?",
+      "options": ["Juan corre rápido", "María llegó cansada", "Pedro estudia mucho", "Ana come poco"],
+      "correct": 1,
+      "explanation": "'Cansada' es complemento predicativo que predica algo del sujeto"
+    },
+    {
+      "id": 178,
+      "question": "¿Cuál es el sinónimo de 'DÍSCOLO'?",
+      "options": ["Obediente", "Rebelde", "Sumiso", "Dócil"],
+      "correct": 1,
+      "explanation": "Díscolo significa desobediente, rebelde o indisciplinado"
+    },
+    {
+      "id": 179,
+      "question": "¿Cuál palabra necesita tilde por tener hiato?",
+      "options": ["causa", "auto", "reír", "Europa"],
+      "correct": 2,
+      "explanation": "'Reír' lleva tilde porque tiene hiato entre vocal cerrada tónica y abierta"
+    },
+    {
+      "id": 180,
+      "question": "¿Cuál es el antónimo de 'GÁRRULO'?",
+      "options": ["Hablador", "Charlatán", "Callado", "Locuaz"],
+      "correct": 2,
+      "explanation": "Gárrulo significa muy hablador o charlatán, su antónimo es callado"
+    },
+    {
+      "id": 181,
+      "question": "¿Cuál verbo está en futuro imperfecto?",
+      "options": ["habré hablado", "hablaré", "hablaba", "hablé"],
+      "correct": 1,
+      "explanation": "'Hablaré' está en futuro imperfecto o simple"
+    },
+    {
+      "id": 182,
+      "question": "¿Cuál es el sinónimo de 'MAGNO'?",
+      "options": ["Pequeño", "Grande", "Insignificante", "Menor"],
+      "correct": 1,
+      "explanation": "Magno significa grande, importante o extraordinario"
+    },
+    {
+      "id": 183,
+      "question": "Lee: 'Espero que vengas temprano.' ¿En qué modo está 'vengas'?",
+      "options": ["Indicativo", "Subjuntivo", "Imperativo", "Condicional"],
+      "correct": 1,
+      "explanation": "'Vengas' está en modo subjuntivo, expresa deseo o esperanza"
+    },
+    {
+      "id": 184,
+      "question": "¿Cuál es el antónimo de 'INERME'?",
+      "options": ["Desarmado", "Indefenso", "Armado", "Débil"],
+      "correct": 2,
+      "explanation": "Inerme significa desarmado o indefenso, su antónimo es armado"
+    },
+    {
+      "id": 185,
+      "question": "¿Cuál oración tiene apócope?",
+      "options": ["Un buen día", "Una buena idea", "El primer lugar", "La primera vez"],
+      "correct": 0,
+      "explanation": "'Buen' es apócope de 'bueno' al ir antes de sustantivo masculino"
+    },
+    {
+      "id": 186,
+      "question": "¿Cuál es el sinónimo de 'FLEMÁTICO'?",
+      "options": ["Nervioso", "Tranquilo", "Agitado", "Inquieto"],
+      "correct": 1,
+      "explanation": "Flemático significa tranquilo, sereno, poco emotivo"
+    },
+    {
+      "id": 187,
+      "question": "Completa la analogía: TIMÓN es a BARCO como VOLANTE es a:",
+      "options": ["Rueda", "Auto", "Gasolina", "Freno"],
+      "correct": 1,
+      "explanation": "La relación es instrumento de dirección-vehículo: timón dirige barco, volante dirige auto"
+    },
+    {
+      "id": 188,
+      "question": "¿Cuál es el antónimo de 'FÚTIL'?",
+      "options": ["Intrascendente", "Importante", "Banal", "Trivial"],
+      "correct": 1,
+      "explanation": "Fútil significa de poca importancia o valor, su antónimo es importante"
+    },
+    {
+      "id": 189,
+      "question": "¿Cuál oración tiene complemento circunstancial de tiempo?",
+      "options": ["Estudia en casa", "Llegó ayer", "Corre rápidamente", "Trabaja mucho"],
+      "correct": 1,
+      "explanation": "'Ayer' indica el tiempo en que se realizó la acción"
+    },
+    {
+      "id": 190,
+      "question": "¿Cuál es el sinónimo de 'INDÓMITO'?",
+      "options": ["Sumiso", "Rebelde", "Obediente", "Dócil"],
+      "correct": 1,
+      "explanation": "Indómito significa que no se puede dominar, rebelde o bravo"
+    },
+    {
+      "id": 191,
+      "question": "¿Cuál palabra lleva tilde por ser sobreesdrújula?",
+      "options": ["rápidamente", "fácilmente", "últimamente", "Todas las anteriores"],
+      "correct": 3,
+      "explanation": "Todas las palabras terminadas en -mente son sobreesdrújulas y llevan tilde"
+    },
+    {
+      "id": 192,
+      "question": "¿Cuál es el antónimo de 'MORIGERADO'?",
+      "options": ["Moderado", "Templado", "Licencioso", "Prudente"],
+      "correct": 2,
+      "explanation": "Morigerado significa de costumbres moderadas, su antónimo es licencioso"
+    },
+    {
+      "id": 193,
+      "question": "Lee: 'Confío en que aprobarás el examen.' ¿Qué tipo de subordinada es 'que aprobarás el examen'?",
+      "options": ["Adjetiva", "Sustantiva", "Adverbial", "Coordinada"],
+      "correct": 1,
+      "explanation": "'Que aprobarás el examen' es subordinada sustantiva que funciona como complemento directo"
+    },
+    {
+      "id": 194,
+      "question": "¿Cuál es el sinónimo de 'TENAZ'?",
+      "options": ["Débil", "Perseverante", "Inconstante", "Variable"],
+      "correct": 1,
+      "explanation": "Tenaz significa firme, persistente y perseverante"
+    },
+    {
+      "id": 195,
+      "question": "¿Cuál oración tiene sujeto tácito?",
+      "options": ["Pedro estudia", "Llegaste tarde", "La casa es grande", "Los niños juegan"],
+      "correct": 1,
+      "explanation": "En 'Llegaste tarde' el sujeto 'tú' está implícito o tácito"
+    },
+    {
+      "id": 196,
+      "question": "¿Cuál es el antónimo de 'CONSPICUO'?",
+      "options": ["Notable", "Ilustre", "Insignificante", "Destacado"],
+      "correct": 2,
+      "explanation": "Conspicuo significa notable o ilustre, su antónimo es insignificante"
+    },
+    {
+      "id": 197,
+      "question": "¿Cuál verbo está en pretérito anterior?",
+      "options": ["hubo cantado", "había cantado", "habrá cantado", "habría cantado"],
+      "correct": 0,
+      "explanation": "'Hubo cantado' está en pretérito anterior, tiempo poco usado"
+    },
+    {
+      "id": 198,
+      "question": "¿Cuál es el sinónimo de 'EGREGIO'?",
+      "options": ["Vulgar", "Ilustre", "Común", "Ordinario"],
+      "correct": 1,
+      "explanation": "Egregio significa ilustre, insigne o sobresaliente"
+    },
+    {
+      "id": 199,
+      "question": "¿Cuál oración tiene leísmo?",
+      "options": ["Lo vi ayer", "La compré cara", "Le pegué al balón", "Les escribí una carta"],
+      "correct": 2,
+      "explanation": "'Le pegué al balón' tiene leísmo, debería ser 'Lo pegué' (complemento directo)"
+    },
+    {
+      "id": 200,
+      "question": "¿Cuál es el antónimo de 'ECUÁNIME'?",
+      "options": ["Sereno", "Imparcial", "Apasionado", "Justo"],
+      "correct": 2,
+      "explanation": "Ecuánime significa sereno e imparcial, su antónimo es apasionado"
+    }
+  ]
+}
+      "question": "¿Cuál es el antónimo de 'ARDUO'?",
+      "options": ["Difícil", "Complejo", "Sencillo", "Laborioso"],
+      "correct": 2,
+      "explanation": "Arduo significa difícil o trabajoso, su antónimo es sencillo"
+    },
+    {
+      "id": 112,
+      "question": "Identifica el predicado en: 'María estudia matemáticas todas las tardes'",
+      "options": ["María", "estudia matemáticas todas las tardes", "matemáticas", "todas las tardes"],
+      "correct": 1,
+      "explanation": "El predicado es todo lo que se dice del sujeto: 'estudia matemáticas todas las tardes'"
+    },
+    {
+      "id": 113,
+      "question": "¿Cuál palabra debe llevar tilde?",
+      "options": ["Corazon", "Caracter", "Origen", "Joven"],
+      "correct": 1,
+      "explanation": "'Carácter' es una palabra grave terminada en consonante que no sea 'n' o 's', por lo tanto lleva tilde"
+    },
+    {
+      "id": 114,
+      "question": "Completa la analogía: PINCEL es a PINTOR como BISTURÍ es a:",
+      "options": ["Enfermero", "Cirujano", "Paciente", "Hospital"],
+      "correct": 1,
+      "explanation": "La relación es herramienta-profesión: el pincel lo usa el pintor, el bisturí lo usa el cirujano"
+    },
+    {
+      "id": 115,
+      "question": "¿Cuál es el significado de 'PARADIGMA'?",
+      "options": ["Confusión", "Modelo o ejemplo", "Problema", "Solución"],
+      "correct": 1,
+      "explanation": "Paradigma significa modelo, patrón o ejemplo que sirve de referencia"
+    },
+    {
+      "id": 116,
+      "question": "Identifica la figura retórica en: 'El viento susurraba secretos'",
+      "options": ["Metáfora", "Hipérbole", "Personificación", "Comparación"],
+      "correct": 2,
+      "explanation": "Es personificación porque atribuye cualidades humanas (susurrar) a algo inanimado (el viento)"
+    },
+    {
+      "id": 117,
+      "question": "Completa la oración: 'No sé ___ vas tan temprano'",
+      "options": ["porque", "por que", "porqué", "por qué"],
+      "correct": 3,
+      "explanation": "Se usa 'por qué' separado y con tilde en preguntas directas e indirectas"
+    },
+    {
+      "id": 118,
+      "question": "¿Cuál es el sinónimo de 'DIÁFANO'?",
+      "options": ["Opaco", "Transparente", "Oscuro", "Turbio"],
+      "correct": 1,
+      "explanation": "Diáfano significa transparente, claro, que deja pasar la luz"
+    },
+    {
+      "id": 119,
+      "question": "Selecciona la conjugación correcta del verbo 'caber' en pretérito perfecto simple, tercera persona singular:",
+      "options": ["cabió", "cupo", "cabió", "cupió"],
+      "correct": 1,
+      "explanation": "El pretérito perfecto simple de 'caber' en tercera persona singular es 'cupo'"
+    },
+    {
+      "id": 120,
+      "question": "¿Cuál oración tiene el complemento directo correctamente identificado?",
+      "options": ["Juan compró flores (flores = CD)", "María habla con Pedro (Pedro = CD)", "El niño juega en el parque (parque = CD)", "Llegamos a casa (casa = CD)"],
+      "correct": 0,
+      "explanation": "El complemento directo es el objeto que recibe directamente la acción del verbo: 'flores'"
+    },
+    {
+      "id": 121,
+      "question": "¿Cuál es el antónimo de 'PARSIMONIA'?",
+      "options": ["Moderación", "Derroche", "Ahorro", "Prudencia"],
+      "correct": 1,
+      "explanation": "Parsimonia significa moderación en los gastos, su antónimo es derroche"
+    },
+    {
+      "id": 122,
+      "question": "Según el siguiente texto: 'El café es la segunda bebida más consumida en el mundo después del agua. Su cultivo emplea a millones de personas.' ¿Cuál es la idea principal?",
+      "options": ["El agua es la bebida más consumida", "El café emplea a muchas personas", "El café es muy importante mundialmente", "El cultivo del café es difícil"],
+      "correct": 2,
+      "explanation": "La idea principal abarca todo el texto: la importancia mundial del café como bebida y fuente de empleo"
+    },
+    {
+      "id": 123,
+      "question": "Identifica la palabra con diptongo:",
+      "options": ["País", "Raíz", "Baúl", "Piano"],
+      "correct": 3,
+      "explanation": "'Piano' tiene diptongo (ia) - dos vocales que se pronuncian en una sola sílaba"
+    },
+    {
+      "id": 124,
+      "question": "¿Cuál es el sinónimo de 'MAGNÁNIMO'?",
+      "options": ["Tacaño", "Generoso", "Egoísta", "Mezquino"],
+      "correct": 1,
+      "explanation": "Magnánimo significa generoso, noble de corazón, que perdona fácilmente"
+    },
+    {
+      "id": 125,
+      "question": "Completa la analogía: SEMILLA es a ÁRBOL como HUEVO es a:",
+      "options": ["Nido", "Pájaro", "Pluma", "Volar"],
+      "correct": 1,
+      "explanation": "La relación es origen-resultado: de la semilla nace el árbol, del huevo nace el pájaro"
+    },
+    {
+      "id": 126,
+      "question": "¿Cuál palabra está mal escrita?",
+      "options": ["Exhuberante", "Exhausto", "Exhortar", "Exhibir"],
+      "correct": 0,
+      "explanation": "La forma correcta es 'exuberante' (sin h después de la x)"
+    },
+    {
+      "id": 127,
+      "question": "Identifica el sujeto tácito en: 'Llegaron tarde a la reunión'",
+      "options": ["No hay sujeto", "La reunión", "Ellos/Ellas", "Tarde"],
+      "correct": 2,
+      "explanation": "El sujeto tácito es 'ellos/ellas', se sobreentiende por la conjugación del verbo"
+    },
+    {
+      "id": 128,
+      "question": "¿Cuál es el antónimo de 'LACÓNICO'?",
+      "options": ["Breve", "Conciso", "Verboso", "Preciso"],
+      "correct": 2,
+      "explanation": "Lacónico significa que habla con pocas palabras, su antónimo es verboso (que habla mucho)"
+    },
+    {
+      "id": 129,
+      "question": "Selecciona la oración con hipérbole:",
+      "options": ["El mar es azul como el cielo", "Te he dicho mil veces que no", "Sus cabellos son de oro", "El viento canta en los árboles"],
+      "correct": 1,
+      "explanation": "La hipérbole es una exageración: 'mil veces' exagera la cantidad de veces"
+    },
+    {
+      "id": 130,
+      "question": "¿Cuál es el significado de 'IDIOSINCRASIA'?",
+      "options": ["Enfermedad", "Manera particular de ser", "Problema de salud", "Tipo de idioma"],
+      "correct": 1,
+      "explanation": "Idiosincrasia se refiere al temperamento y carácter distintivo de una persona o grupo"
+    },
+    {
+      "id": 131,
+      "question": "Completa correctamente: 'Espero que ___ mañana'",
+      "options": ["vienes", "vengas", "viniste", "vendrás"],
+      "correct": 1,
+      "explanation": "Después de 'que' en expresiones de deseo se usa el subjuntivo: 'vengas'"
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál palabra tiene hiato?",
+      "options": ["Bueno", "Cuando", "Río", "Causa"],
+      "correct": 2,
+      "explanation": "'Río' tiene hiato porque las vocales í-o se pronuncian en sílabas separadas"
+    },
+    {
+      "id": 133,
+      "question": "¿Cuál es el sinónimo de 'VESTIGIO'?",
+      "options": ["Rastro", "Camino", "Futuro", "Presente"],
+      "correct": 0,
+      "explanation": "Vestigio significa señal, huella o rastro que queda de algo"
+    },
+    {
+      "id": 134,
+      "question": "Identifica el complemento indirecto en: 'Pedro regaló flores a María'",
+      "options": ["Pedro", "flores", "a María", "regaló"],
+      "correct": 2,
+      "explanation": "El complemento indirecto indica a quién va dirigida la acción: 'a María'"
+    },
+    {
+      "id": 135,
+      "question": "¿Cuál es el antónimo de 'FLEMÁTICO'?",
+      "options": ["Tranquilo", "Sereno", "Apasionado", "Calmado"],
+      "correct": 2,
+      "explanation": "Flemático significa calmado y sin emociones, su antónimo es apasionado"
+    },
+    {
+      "id": 136,
+      "question": "Según el texto: 'Los delfines son mamíferos acuáticos muy inteligentes. Pueden reconocerse en un espejo y resolver problemas complejos.' ¿Qué característica destaca más?",
+      "options": ["Son acuáticos", "Son mamíferos", "Su inteligencia", "Viven en grupos"],
+      "correct": 2,
+      "explanation": "El texto enfatiza la inteligencia de los delfines con ejemplos específicos"
+    },
+    {
+      "id": 137,
+      "question": "Completa la analogía: DIRECTOR es a ORQUESTA como CAPITÁN es a:",
+      "options": ["Soldado", "Barco", "Guerra", "Mar"],
+      "correct": 1,
+      "explanation": "La relación es líder-grupo: el director dirige la orquesta, el capitán dirige el barco"
+    },
+    {
+      "id": 138,
+      "question": "¿Cuál oración está correctamente puntuada?",
+      "options": ["Hola María, ¿cómo estás?", "Hola, María ¿cómo estás?", "Hola María ¿cómo estás?", "Hola, María, ¿cómo estás?"],
+      "correct": 3,
+      "explanation": "El vocativo 'María' debe ir entre comas para separarlo del resto de la oración"
+    },
+    {
+      "id": 139,
+      "question": "¿Cuál es el sinónimo de 'UBÉRRIMO'?",
+      "options": ["Escaso", "Abundante", "Pobre", "Limitado"],
+      "correct": 1,
+      "explanation": "Ubérrimo significa muy abundante, muy fértil"
+    },
+    {
+      "id": 140,
+      "question": "Identifica la palabra aguda:",
+      "options": ["Médico", "Cántaro", "Reloj", "Héroe"],
+      "correct": 2,
+      "explanation": "'Reloj' es palabra aguda porque la sílaba tónica es la última (re-LOJ)"
+    },
+    {
+      "id": 141,
+      "question": "¿Cuál es el antónimo de 'SAPIENCIA'?",
+      "options": ["Sabiduría", "Conocimiento", "Ignorancia", "Inteligencia"],
+      "correct": 2,
+      "explanation": "Sapiencia significa sabiduría profunda, su antónimo es ignorancia"
+    },
+    {
+      "id": 142,
+      "question": "Completa correctamente: 'Si ___ más tiempo, habría terminado'",
+      "options": ["tuviera", "tendría", "tengo", "tenía"],
+      "correct": 0,
+      "explanation": "En oraciones condicionales irreales se usa el subjuntivo: 'tuviera'"
+    },
+    {
+      "id": 143,
+      "question": "Identifica la metáfora en las siguientes opciones:",
+      "options": ["Corre como el viento", "Tus dientes son perlas", "El río suena fuerte", "Está muy contento"],
+      "correct": 1,
+      "explanation": "'Tus dientes son perlas' es metáfora porque identifica directamente los dientes con perlas"
+    },
+    {
+      "id": 144,
+      "question": "¿Cuál es el significado de 'BIZANTINO'?",
+      "options": ["Sencillo", "Complicado e inútil", "Antiguo", "Religioso"],
+      "correct": 1,
+      "explanation": "Bizantino se refiere a discusiones complicadas e inútiles, sin sentido práctico"
+    },
+    {
+      "id": 145,
+      "question": "¿Cuál oración tiene gerundio mal usado?",
+      "options": ["Viene corriendo", "Salió gritando", "Una ley regulando el tráfico", "Está comiendo"],
+      "correct": 2,
+      "explanation": "El gerundio no debe usarse como adjetivo. Lo correcto sería 'una ley que regula el tráfico'"
+    },
+    {
+      "id": 146,
+      "question": "Completa la analogía: MEDICINA es a ENFERMEDAD como EDUCACIÓN es a:",
+      "options": ["Escuela", "Maestro", "Ignorancia", "Libro"],
+      "correct": 2,
+      "explanation": "La relación es solución-problema: la medicina cura la enfermedad, la educación combate la ignorancia"
+    },
+    {
+      "id": 147,
+      "question": "¿Cuál es el sinónimo de 'PROCLIVE'?",
+      "options": ["Resistente", "Propenso", "Contrario", "Indiferente"],
+      "correct": 1,
+      "explanation": "Proclive significa que tiene tendencia o inclinación hacia algo, es sinónimo de propenso"
+    },
+    {
+      "id": 148,
+      "question": "Identifica el error ortográfico:",
+      "options": ["Absorber", "Observar", "Absorto", "Absorver"],
+      "correct": 3,
+      "explanation": "La forma correcta es 'absorber' (con b), no 'absorver'"
+    },
+    {
+      "id": 149,
+      "question": "¿Cuál es el antónimo de 'MELIFLUO'?",
+      "options": ["Dulce", "Suave", "Áspero", "Melodioso"],
+      "correct": 2,
+      "explanation": "Melifluo significa dulce, suave al hablar, su antónimo es áspero"
+    },
+    {
+      "id": 150,
+      "question": "Según el texto: 'La fotosíntesis es el proceso por el cual las plantas convierten la luz solar en energía química.' ¿Cuál es el tema central?",
+      "options": ["Las plantas", "La luz solar", "La fotosíntesis", "La energía química"],
+      "correct": 2,
+      "explanation": "El tema central es la fotosíntesis, que es el proceso completo que se describe"
+    },
+    {
+      "id": 151,
+      "question": "¿Cuál palabra debe escribirse con 'b'?",
+      "options": ["Herbir", "Servir", "Vivir", "Hervir"],
+      "correct": 3,
+      "explanation": "'Hervir' se escribe con 'v', las otras opciones ya están correctas o son incorrectas por otras razones"
+    },
+    {
+      "id": 152,
+      "question": "Completa correctamente: '___ estudiando para el examen'",
+      "options": ["Está", "Esta", "Ésta", "Este"],
+      "correct": 0,
+      "explanation": "'Está' con tilde es la forma del verbo estar en tercera persona singular"
+    },
+    {
+      "id": 153,
+      "question": "¿Cuál es el sinónimo de 'FACUNDO'?",
+      "options": ["Mudo", "Elocuente", "Tartamudo", "Silencioso"],
+      "correct": 1,
+      "explanation": "Facundo significa que habla con facilidad y elegancia, es sinónimo de elocuente"
+    },
+    {
+      "id": 154,
+      "question": "Identifica la personificación:",
+      "options": ["Sus ojos brillan como estrellas", "La luna sonríe desde el cielo", "Es rápido como un rayo", "Tiene una fuerza increíble"],
+      "correct": 1,
+      "explanation": "'La luna sonríe' es personificación porque atribuye la acción humana de sonreír a la luna"
+    },
+    {
+      "id": 155,
+      "question": "¿Cuál es el antónimo de 'INEPTO'?",
+      "options": ["Torpe", "Incapaz", "Hábil", "Inútil"],
+      "correct": 2,
+      "explanation": "Inepto significa sin aptitud para algo, su antónimo es hábil"
+    },
+    {
+      "id": 156,
+      "question": "Completa la analogía: AUTOR es a LIBRO como COMPOSITOR es a:",
+      "options": ["Instrumento", "Sinfonía", "Música", "Concierto"],
+      "correct": 1,
+      "explanation": "La relación es creador-obra: el autor crea libros, el compositor crea sinfonías"
+    },
+    {
+      "id": 157,
+      "question": "¿Cuál oración tiene concordancia incorrecta?",
+      "options": ["Los niños están contentos", "Las flores son hermosas", "La agua está fría", "El problema es complejo"],
+      "correct": 2,
+      "explanation": "'Agua' es femenino pero se usa el artículo masculino 'el' solo cuando empieza por 'a' tónica, pero el adjetivo debe concordar: 'El agua está fría'"
+    },
+    {
+      "id": 158,
+      "question": "¿Cuál es el significado de 'EFÍMERO'?",
+      "options": ["Duradero", "Permanente", "Pasajero", "Eterno"],
+      "correct": 2,
+      "explanation": "Efímero significa que dura poco tiempo, es pasajero"
+    },
+    {
+      "id": 159,
+      "question": "Identifica la palabra esdrújula:",
+      "options": ["Canción", "Música", "Último", "Compás"],
+      "correct": 2,
+      "explanation": "'Último' es esdrújula porque la sílaba tónica es la antepenúltima (ÚL-ti-mo)"
+    },
+    {
+      "id": 160,
+      "question": "¿Cuál es el sinónimo de 'CANDOR'?",
+      "options": ["Malicia", "Inocencia", "Astucia", "Picardía"],
+      "correct": 1,
+      "explanation": "Candor significa inocencia, pureza de ánimo, sencillez"
+    },
+    {
+      "id": 161,
+      "question": "Completa correctamente: 'Ojalá ___ buen tiempo mañana'",
+      "options": ["hace", "haga", "hará", "hacía"],
+      "correct": 1,
+      "explanation": "Después de 'ojalá' se usa el subjuntivo: 'haga'"
+    },
+    {
+      "id": 162,
+      "question": "¿Cuál es el antónimo de 'DILIGENTE'?",
+      "options": ["Cuidadoso", "Aplicado", "Negligente", "Atento"],
+      "correct": 2,
+      "explanation": "Diligente significa cuidadoso y aplicado, su antónimo es negligente"
+    },
+    {
+      "id": 163,
+      "question": "Según el texto: 'Los antibióticos son medicamentos que combaten las bacterias, pero no sirven contra los virus.' ¿Qué limitación tienen?",
+      "options": ["Son caros", "No combaten virus", "Causan alergias", "Son difíciles de conseguir"],
+      "correct": 1,
+      "explanation": "El texto claramente indica que los antibióticos no sirven contra los virus"
+    },
+    {
+      "id": 164,
+      "question": "Identifica la comparación o símil:",
+      "options": ["Es un león en la batalla", "Lucha como un león", "Su valor es un león", "El león de la guerra"],
+      "correct": 1,
+      "explanation": "'Lucha como un león' es comparación porque usa la palabra 'como' para establecer similitud"
+    },
+    {
+      "id": 165,
+      "question": "¿Cuál palabra está mal dividida silábicamente?",
+      "options": ["A-e-ro-puer-to", "Cons-truir", "At-lán-ti-co", "Sub-ma-ri-no"],
+      "correct": 1,
+      "explanation": "'Construir' se divide cons-truir, no cons-truir (no se separan grupos consonánticos como 'str')"
+    },
+    {
+      "id": 166,
+      "question": "¿Cuál es el sinónimo de 'SOTERRAR'?",
+      "options": ["Descubrir", "Enterrar", "Mostrar", "Exhibir"],
+      "correct": 1,
+      "explanation": "Soterrar significa enterrar, poner bajo tierra"
+    },
+    {
+      "id": 167,
+      "question": "Completa la analogía: CHEF es a COCINA como PILOTO es a:",
+      "options": ["Aeropuerto", "Avión", "Cielo", "Viaje"],
+      "correct": 1,
+      "explanation": "La relación es profesional-lugar de trabajo: el chef trabaja en la cocina, el piloto en el avión"
+    },
+    {
+      "id": 168,
+      "question": "¿Cuál es el antónimo de 'PROLIJO'?",
+      "options": ["Detallado", "Minucioso", "Descuidado", "Ordenado"],
+      "correct": 2,
+      "explanation": "Prolijo significa cuidadoso y detallado, su antónimo es descuidado"
+    },
+    {
+      "id": 169,
+      "question": "Identifica el predicado nominal en: 'Mi hermana es doctora'",
+      "options": ["Mi hermana", "es", "doctora", "es doctora"],
+      "correct": 3,
+      "explanation": "El predicado nominal incluye el verbo copulativo y el atributo: 'es doctora'"
+    },
+    {
+      "id": 170,
+      "question": "¿Cuál oración tiene el uso correcto de 'sino'?",
+      "options": ["Si no vienes, me voy", "No es médico sino abogado", "Sino llueve, saldremos", "Si no estudias, repruebas"],
+      "correct": 1,
+      "explanation": "'Sino' (junto) se usa para contraponer: 'No es médico sino abogado'"
+    },
+    {
+      "id": 171,
+      "question": "¿Cuál es el significado de 'DISYUNTIVA'?",
+      "options": ["Unión", "Alternativa entre dos opciones", "Confirmación", "Continuidad"],
+      "correct": 1,
+      "explanation": "Disyuntiva significa alternativa entre dos posibilidades que se excluyen mutuamente"
+    },
+    {
+      "id": 172,
+      "question": "¿Cuál es el sinónimo de 'GENUINO'?",
+      "options": ["Falso", "Auténtico", "Imitado", "Artificial"],
+      "correct": 1,
+      "explanation": "Genuino significa auténtico, verdadero, no falsificado"
+    },
+    {
+      "id": 173,
+      "question": "Identifica la hipérbole:",
+      "options": ["Es rápido como un rayo", "Lloré ríos de lágrimas", "Sus ojos son como el mar", "Corre mucho"],
+      "correct": 1,
+      "explanation": "'Lloré ríos de lágrimas' es hipérbole porque exagera la cantidad de lágrimas"
+    },
+    {
+      "id": 174,
+      "question": "¿Cuál es el antónimo de 'INMUTABLE'?",
+      "options": ["Fijo", "Constante", "Variable", "Estable"],
+      "correct": 2,
+      "explanation": "Inmutable significa que no cambia, su antónimo es variable"
+    },
+    {
+      "id": 175,
+      "question": "Completa correctamente: 'Te ___ que vengas temprano'",
+      "options": ["pido", "peda", "peda", "pidió"],
+      "correct": 0,
+      "explanation": "La forma correcta en presente de indicativo primera persona es 'pido'"
+    },
+    {
+      "id": 176,
+      "question": "Según el texto: 'El café se cultiva en regiones tropicales entre los trópicos de Cáncer y Capricornio, donde las temperaturas son constantes.' ¿Dónde se cultiva el café?",
+      "options": ["En regiones frías", "En regiones tropicales", "En cualquier lugar", "Solo en América"],
+      "correct": 1,
+      "explanation": "El texto especifica claramente que el café se cultiva en regiones tropicales"
+    },
+    {
+      "id": 177,
+      "question": "¿Cuál palabra tiene triptongo?",
+      "options": ["Estudiáis", "Piano", "Tierra", "Suave"],
+      "correct": 0,
+      "explanation": "'Estudiáis' tiene triptongo (iái) - tres vocales que se pronuncian en una sola sílaba"
+    },
+    {
+      "id": 178,
+      "question": "¿Cuál es el sinónimo de 'CAPCIOSO'?",
+      "options": ["Sincero", "Engañoso", "Claro", "Honesto"],
+      "correct": 1,
+      "explanation": "Capcioso significa engañoso, que intenta confundir con argumentos falsos"
+    },
+    {
+      "id": 179,
+      "question": "Completa la analogía: VIOLÍN es a CUERDA como FLAUTA es a:",
+      "options": ["Madera", "Viento", "Metal", "Percusión"],
+      "correct": 1,
+      "explanation": "La relación es instrumento-familia: el violín es de cuerda, la flauta es de viento"
+    },
+    {
+      "id": 180,
+      "question": "¿Cuál oración tiene el complemento circunstancial de tiempo?",
+      "options": ["Vive en Madrid", "Llegó ayer", "Compró flores", "Habla con Juan"],
+      "correct": 1,
+      "explanation": "'Ayer' indica cuándo ocurrió la acción, es complemento circunstancial de tiempo"
+    },
+    {
+      "id": 181,
+      "question": "¿Cuál es el antónimo de 'ZAHERIR'?",
+      "options": ["Criticar", "Elogiar", "Reprochar", "Censurar"],
+      "correct": 1,
+      "explanation": "Zaherir significa criticar o reprender hiriendo el amor propio, su antónimo es elogiar"
+    },
+    {
+      "id": 182,
+      "question": "Identifica la aliteración:",
+      "options": ["El ruido con que rueda", "Sus ojos son estrellas", "Llegó como un huracán", "Está muy cansado"],
+      "correct": 0,
+      "explanation": "'El ruido con que rueda' es aliteración por la repetición del sonido 'r'"
+    },
+    {
+      "id": 183,
+      "question": "¿Cuál es el significado de 'SUPERFLUO'?",
+      "options": ["Necesario", "Innecesario", "Importante", "Fundamental"],
+      "correct": 1,
+      "explanation": "Superfluo significa innecesario, que está de más"
+    },
+    {
+      "id": 184,
+      "question": "¿Cuál palabra está correctamente escrita?",
+      "options": ["Exuberante", "Exhuberante", "Esuberante", "Exsuperante"],
+      "correct": 0,
+      "explanation": "'Exuberante' es la forma correcta (abundante, que se manifiesta con plenitud)"
+    },
+    {
+      "id": 185,
+      "question": "Completa correctamente: 'Le dije que ___ más atención'",
+      "options": ["pone", "ponga", "pondrá", "ponía"],
+      "correct": 1,
+      "explanation": "En oraciones subordinadas con 'que' después de verbos de influencia se usa subjuntivo: 'ponga'"
+    },
+    {
+      "id": 186,
+      "question": "¿Cuál es el sinónimo de 'BENÉVOLO'?",
+      "options": ["Cruel", "Bondadoso", "Severo", "Riguroso"],
+      "correct": 1,
+      "explanation": "Benévolo significa bondadoso, que tiene buena voluntad hacia otros"
+    },
+    {
+      "id": 187,
+      "question": "Según el texto: 'Los glaciares almacenan el 70% del agua dulce del mundo, pero están disminuyendo debido al cambio climático.' ¿Cuál es el problema?",
+      "options": ["Falta de agua", "Los glaciares están disminuyendo", "El agua está contaminada", "Los glaciares crecen mucho"],
+      "correct": 1,
+      "explanation": "El texto indica claramente que el problema es que los glaciares están disminuyendo"
+    },
+    {
+      "id": 188,
+      "question": "¿Cuál es el antónimo de 'VERBOSO'?",
+      "options": ["Hablador", "Locuaz", "Lacónico", "Charlatan"],
+      "correct": 2,
+      "explanation": "Verboso significa que habla mucho y con muchas palabras, su antónimo es lacónico (breve al hablar)"
+    },
+    {
+      "id": 189,
+      "question": "Identifica la onomatopeya:",
+      "options": ["El pájaro canta", "¡Pum! Sonó el disparo", "Habla muy fuerte", "Escucha música"],
+      "correct": 1,
+      "explanation": "'¡Pum!' es onomatopeya porque imita el sonido del disparo"
+    },
+    {
+      "id": 190,
+      "question": "¿Cuál palabra debe llevar tilde diacrítica?",
+      "options": ["El niño", "Tu amigo", "Mi casa", "Se fue"],
+      "correct": 3,
+      "explanation": "'Sé' (del verbo saber) lleva tilde diacrítica para diferenciarse de 'se' (pronombre)"
+    },
+    {
+      "id": 191,
+      "question": "Completa la analogía: TERMÓMETRO es a TEMPERATURA como BARÓMETRO es a:",
+      "options": ["Tiempo", "Presión", "Humedad", "Velocidad"],
+      "correct": 1,
+      "explanation": "La relación es instrumento-medición: el termómetro mide temperatura, el barómetro mide presión"
+    },
+    {
+      "id": 192,
+      "question": "¿Cuál es el sinónimo de 'REFUTAR'?",
+      "options": ["Aceptar", "Contradecir", "Aprobar", "Confirmar"],
+      "correct": 1,
+      "explanation": "Refutar significa contradecir con argumentos lo que otros dicen"
+    },
+    {
+      "id": 193,
+      "question": "¿Cuál oración tiene el sujeto compuesto?",
+      "options": ["Juan estudia mucho", "María y Pedro llegaron", "Los niños juegan", "El perro ladra"],
+      "correct": 1,
+      "explanation": "'María y Pedro' forman un sujeto compuesto (dos núcleos unidos por conjunción)"
+    },
+    {
+      "id": 194,
+      "question": "¿Cuál es el antónimo de 'REACIO'?",
+      "options": ["Resistente", "Dispuesto", "Opuesto", "Contrario"],
+      "correct": 1,
+      "explanation": "Reacio significa que muestra resistencia a hacer algo, su antónimo es dispuesto"
+    },
+    {
+      "id": 195,
+      "question": "Identifica la elipsis:",
+      "options": ["Juan estudia medicina; Pedro, ingeniería", "Corre muy rápido", "Llegó tarde a casa", "Habla con sus amigos"],
+      "correct": 0,
+      "explanation": "Hay elipsis porque se omite el verbo 'estudia' en la segunda parte: 'Pedro [estudia] ingeniería'"
+    },
+    {
+      "id": 196,
+      "question": "¿Cuál es el significado de 'ECUÁNIME'?",
+      "options": ["Nervioso", "Sereno y justo", "Alterado", "Parcial"],
+      "correct": 1,
+      "explanation": "Ecuánime significa que tiene serenidad y constancia de ánimo, imparcial en los juicios"
+    },
+    {
+      "id": 197,
+      "question": "Completa correctamente: 'Aunque ___ frío, saldremos'",
+      "options": ["hace", "haga", "hacía", "hará"],
+      "correct": 1,
+      "explanation": "En oraciones concesivas con 'aunque' que expresan posibilidad se usa subjuntivo: 'haga'"
+    },
+    {
+      "id": 198,
+      "question": "¿Cuál es el sinónimo de 'ALTRUISTA'?",
+      "options": ["Egoísta", "Generoso", "Tacaño", "Interesado"],
+      "correct": 1,
+      "explanation": "Altruista significa que se preocupa por el bien de otros de manera desinteresada, es generoso"
+    },
+    {
+      "id": 199,
+      "question": "Según el texto: 'La biodiversidad es fundamental para el equilibrio de los ecosistemas y la supervivencia humana.' ¿Por qué es importante la biodiversidad?",
+      "options": ["Es bonita", "Para el equilibrio y supervivencia", "Es costosa", "Es fácil de mantener"],
+      "correct": 1,
+      "explanation": "El texto indica que la biodiversidad es importante para el equilibrio de ecosistemas y supervivencia humana"
+    },
+    {
+      "id": 200,
+      "question": "¿Cuál es el antónimo de 'PLETÓRICO'?",
+      "options": ["Lleno", "Abundante", "Escaso", "Repleto"],
+      "correct": 2,
+      "explanation": "Pletórico significa muy lleno o abundante, su antónimo es escaso"
     }
   ]
 }
