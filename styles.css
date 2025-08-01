@@ -122,6 +122,25 @@ header p {
     box-shadow: 0 5px 15px rgba(40, 167, 69, 0.4);
 }
 
+.btn-secondary {
+    padding: 12px 25px;
+    font-size: 0.95rem;
+    border: 2px solid #6c757d;
+    border-radius: 8px;
+    background: transparent;
+    color: #6c757d;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.btn-secondary:hover {
+    background: #6c757d;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(108, 117, 125, 0.3);
+}
+
 .progress-bar {
     background: #e9ecef;
     border-radius: 10px;

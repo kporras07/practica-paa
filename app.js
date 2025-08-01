@@ -41,6 +41,11 @@ class PAAApp {
         document.getElementById('restart-btn').addEventListener('click', () => {
             this.restart();
         });
+        
+        // Report button
+        document.getElementById('report-btn').addEventListener('click', () => {
+            this.reportQuestion();
+        });
     }
     
     startQuiz() {
@@ -210,6 +215,35 @@ class PAAApp {
     
     restart() {
         this.showScreen('start-screen');
+    }
+    
+    reportQuestion() {
+        const currentQuestion = this.currentQuestions[this.currentQuestionIndex];
+        const questionText = encodeURIComponent(currentQuestion.question);
+        const questionId = currentQuestion.id;
+        
+        // Create GitHub issue URL with pre-filled content
+        const issueTitle = encodeURIComponent(`Pregunta ${questionId}: Posible error`);
+        const issueBody = encodeURIComponent(
+            `**ID de la pregunta:** ${questionId}\n\n` +
+            `**Pregunta:** ${currentQuestion.question}\n\n` +
+            `**Opciones:**\n` +
+            `A) ${currentQuestion.options[0]}\n` +
+            `B) ${currentQuestion.options[1]}\n` +
+            `C) ${currentQuestion.options[2]}\n` +
+            `D) ${currentQuestion.options[3]}\n\n` +
+            `**Respuesta marcada como correcta:** ${currentQuestion.options[currentQuestion.correct]}\n\n` +
+            `**Explicación:** ${currentQuestion.explanation}\n\n` +
+            `**Problema reportado:**\n` +
+            `<!-- Describe el problema con esta pregunta -->\n\n` +
+            `**Sugerencia de corrección:**\n` +
+            `<!-- Si tienes una sugerencia, descríbela aquí -->`
+        );
+        
+        const githubUrl = `https://github.com/kporras07/practica-paa/issues/new?title=${issueTitle}&body=${issueBody}&labels=question-error`;
+        
+        // Open GitHub issue in new window
+        window.open(githubUrl, '_blank');
     }
     
     showScreen(screenId) {
