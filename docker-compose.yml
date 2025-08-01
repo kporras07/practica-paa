@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  paa-app:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: paa-study-app
+    restart: unless-stopped

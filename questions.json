@@ -1,0 +1,81 @@
+{
+  "math": [
+    {
+      "id": 1,
+      "question": "Si x + 5 = 12, ¿cuál es el valor de x?",
+      "options": ["5", "7", "12", "17"],
+      "correct": 1,
+      "explanation": "Para resolver x + 5 = 12, restamos 5 de ambos lados: x = 12 - 5 = 7"
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el área de un rectángulo con base 8 cm y altura 6 cm?",
+      "options": ["14 cm²", "28 cm²", "48 cm²", "56 cm²"],
+      "correct": 2,
+      "explanation": "El área de un rectángulo = base × altura = 8 × 6 = 48 cm²"
+    },
+    {
+      "id": 3,
+      "question": "Si el 25% de un número es 15, ¿cuál es el número completo?",
+      "options": ["45", "50", "60", "75"],
+      "correct": 2,
+      "explanation": "Si 25% = 15, entonces 100% = 15 ÷ 0.25 = 60"
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el resultado de 2³ + 4²?",
+      "options": ["20", "24", "28", "32"],
+      "correct": 1,
+      "explanation": "2³ = 8 y 4² = 16, entonces 8 + 16 = 24"
+    },
+    {
+      "id": 5,
+      "question": "En una proporción, si 3:4 = x:12, ¿cuál es el valor de x?",
+      "options": ["8", "9", "10", "16"],
+      "correct": 1,
+      "explanation": "3/4 = x/12, entonces x = (3 × 12) ÷ 4 = 36 ÷ 4 = 9"
+    }
+  ],
+  "verbal": [
+    {
+      "id": 6,
+      "question": "Selecciona el sinónimo de la palabra 'PERSPICAZ':",
+      "options": ["Ingenuo", "Astuto", "Confuso", "Lento"],
+      "correct": 1,
+      "explanation": "Perspicaz significa que tiene agudeza mental, por lo tanto su sinónimo es astuto"
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es el antónimo de 'ELOCUENTE'?",
+      "options": ["Articulado", "Expresivo", "Tartamudo", "Claro"],
+      "correct": 2,
+      "explanation": "Elocuente significa que se expresa con facilidad y elegancia, su antónimo sería tartamudo"
+    },
+    {
+      "id": 8,
+      "question": "Completa la analogía: LIBRO es a LEER como MÚSICA es a:",
+      "options": ["Ver", "Escuchar", "Tocar", "Escribir"],
+      "correct": 1,
+      "explanation": "La relación es objeto-acción: un libro se lee, la música se escucha"
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál oración está correctamente escrita?",
+      "options": [
+        "Hubieron muchas personas en la fiesta",
+        "Habían muchas personas en la fiesta", 
+        "Hubo muchas personas en la fiesta",
+        "Hubieron muchas persona en la fiesta"
+      ],
+      "correct": 2,
+      "explanation": "El verbo 'haber' en sentido de existencia es impersonal, por lo tanto se usa 'hubo'"
+    },
+    {
+      "id": 10,
+      "question": "Identifica la figura retórica en: 'Sus ojos eran dos luceros'",
+      "options": ["Hipérbole", "Metáfora", "Comparación", "Personificación"],
+      "correct": 1,
+      "explanation": "Es una metáfora porque identifica directamente los ojos con luceros sin usar 'como'"
+    }
+  ]
+}
