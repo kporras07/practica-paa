@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "question": "¿Cuál es el área de un rectángulo con base 8 cm y altura 6 cm?",
-      "options": ["14 cm²", "28 cm²", "48 cm²", "56 cm²"],
-      "correct": 2,
-      "explanation": "El área de un rectángulo = base × altura = 8 × 6 = 48 cm²"
+      "question": "¿Cuál es el área de un triángulo con base 8 cm y altura 6 cm?",
+      "options": ["14 cm²", "24 cm²", "28 cm²", "48 cm²"],
+      "correct": 1,
+      "explanation": "El área de un triángulo = (base × altura) ÷ 2 = (8 × 6) ÷ 2 = 48 ÷ 2 = 24 cm²"
     },
     {
       "id": 3,
@@ -34,6 +34,41 @@
       "options": ["8", "9", "10", "16"],
       "correct": 1,
       "explanation": "3/4 = x/12, entonces x = (3 × 12) ÷ 4 = 36 ÷ 4 = 9"
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es el perímetro de un cuadrado con lado de 7 cm?",
+      "options": ["14 cm", "21 cm", "28 cm", "49 cm"],
+      "correct": 2,
+      "explanation": "El perímetro de un cuadrado = 4 × lado = 4 × 7 = 28 cm"
+    },
+    {
+      "id": 12,
+      "question": "Si 2x - 8 = 14, ¿cuál es el valor de x?",
+      "options": ["3", "11", "22", "44"],
+      "correct": 1,
+      "explanation": "2x - 8 = 14, entonces 2x = 22, por lo tanto x = 11"
+    },
+    {
+      "id": 13,
+      "question": "¿Cuántos grados tiene la suma de los ángulos internos de un triángulo?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1,
+      "explanation": "La suma de los ángulos internos de cualquier triángulo siempre es 180°"
+    },
+    {
+      "id": 14,
+      "question": "Si una pizza se divide en 8 partes iguales y comes 3 partes, ¿qué fracción comiste?",
+      "options": ["3/5", "3/8", "5/8", "8/3"],
+      "correct": 1,
+      "explanation": "Comiste 3 partes de 8 totales, por lo tanto 3/8"
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es el valor de √64?",
+      "options": ["6", "8", "16", "32"],
+      "correct": 1,
+      "explanation": "√64 = 8, porque 8 × 8 = 64"
     }
   ],
   "verbal": [
@@ -76,6 +111,41 @@
       "options": ["Hipérbole", "Metáfora", "Comparación", "Personificación"],
       "correct": 1,
       "explanation": "Es una metáfora porque identifica directamente los ojos con luceros sin usar 'como'"
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es el sinónimo de 'EFÍMERO'?",
+      "options": ["Duradero", "Temporal", "Eterno", "Permanente"],
+      "correct": 1,
+      "explanation": "Efímero significa que dura poco tiempo, por lo tanto su sinónimo es temporal"
+    },
+    {
+      "id": 17,
+      "question": "Completa la oración: 'Juan compró libros para ___ y para ___'",
+      "options": ["mí - ti", "mi - tu", "mí - tú", "mi - ti"],
+      "correct": 0,
+      "explanation": "Se usa 'mí' y 'ti' después de preposiciones como 'para'"
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál palabra está correctamente acentuada?",
+      "options": ["Medico", "Médico", "Medíco", "Medicó"],
+      "correct": 1,
+      "explanation": "'Médico' es una palabra esdrújula, por lo tanto se acentúa en la antepenúltima sílaba"
+    },
+    {
+      "id": 19,
+      "question": "Identifica el sujeto en: 'Los estudiantes terminaron el examen rápidamente'",
+      "options": ["terminaron", "Los estudiantes", "el examen", "rápidamente"],
+      "correct": 1,
+      "explanation": "El sujeto es quien realiza la acción: 'Los estudiantes'"
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es el antónimo de 'OPTIMISMO'?",
+      "options": ["Alegría", "Esperanza", "Pesimismo", "Confianza"],
+      "correct": 2,
+      "explanation": "Optimismo es ver el lado positivo, su antónimo es pesimismo (ver el lado negativo)"
     }
   ]
 }

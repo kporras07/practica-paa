@@ -14,16 +14,16 @@
         </header>
 
         <div id="start-screen" class="screen active">
+            <div class="question-count-container">
+                <label for="question-count">Número de preguntas:</label>
+                <input type="number" id="question-count" min="1" max="50" value="10">
+            </div>
+            
             <h2>Selecciona el tipo de práctica:</h2>
             <div class="button-group">
                 <button class="selection-btn" data-type="all">Todas las habilidades</button>
                 <button class="selection-btn" data-type="math">Habilidades Matemáticas</button>
                 <button class="selection-btn" data-type="verbal">Habilidades Verbales</button>
-            </div>
-            
-            <div class="question-count-container">
-                <label for="question-count">Número de preguntas:</label>
-                <input type="number" id="question-count" min="1" max="50" value="10">
             </div>
         </div>
 

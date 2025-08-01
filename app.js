@@ -93,10 +93,18 @@ class PAAApp {
                 <input type="radio" name="answer" value="${index}" id="option-${index}">
                 <label for="option-${index}">${option}</label>
             `;
+            
+            // Make entire option clickable
+            optionElement.addEventListener('click', () => {
+                const radioInput = optionElement.querySelector('input[type="radio"]');
+                radioInput.checked = true;
+                document.getElementById('next-btn').disabled = false;
+            });
+            
             optionsContainer.appendChild(optionElement);
         });
         
-        // Bind option selection
+        // Bind option selection for radio inputs
         document.querySelectorAll('input[name="answer"]').forEach(input => {
             input.addEventListener('change', () => {
                 document.getElementById('next-btn').disabled = false;
